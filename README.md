@@ -3,6 +3,9 @@ A plain JavaScript coded game of Tic Tac Toe, played from the command line.
 
 The code repository is at https://github.com/gregsandell/tic-tac-toe.
 
+It can be found in this code sandbox:  https://replit.com/@GregSandell/Tic-Tac-Toe?v=1
+
+
 # Build
 There is no build.  Just paste all the contents of `index.js` into a terminal window.
 
